@@ -9,6 +9,10 @@
 
 A Car Driving simulator comprising of 5 challenging goals built using Unity.
 
+## Contact
+Email: anshumohanty2002@gmail.com
+
+
 [contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/Dave_Drives.svg?style=for-the-badge
 [contributors-url]: https://github.com/AnshumanMohanty-2001/Dave_Drives/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AnshumanMohanty-2001/Dave_Drives.svg?style=for-the-badge
